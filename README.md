@@ -6,13 +6,10 @@ Hello ! It seems you have either wandered too far into wisconsin culture, or you
 * Teams are ranked by points that are increased/decreased throughout the course of the event.
 * Activities are chosen round-robin style with each team captain spinning *The Wheel*. Some activities require all participants, some activities will be direct challenges. 
 
-
-## Skips 
-* Each team gets one opportunity to **Skip** an event after rolling it on the wheel.
-* In order for a team to use their skip, the majority must decide to skip.
-* If a team refuses an event *without* a **Skip**, they must face punishment of ***1 Drink***
-
 ## Points 
 * Points are awarded by completing activities. Points are removed by special clause. 
-* Each Activity has points scaled based on its contents
+* The value of the points awarded to each team depend on their ranking for the game. If there are N teams, the Winner winner will be awarded *n* points. Second place will be awarded *n - 1* points, third *n - 2*, ... , last 1 point.
 
+## Setup
+* Teams will be chosen via a basic captain draft. 
+* Draft order will be determined in a captain-only event. Captains will participate in a chug-off, and their finishing order will mirror the draft order.
